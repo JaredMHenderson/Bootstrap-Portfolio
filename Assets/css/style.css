@@ -81,6 +81,66 @@ li {
     margin-bottom: 10px;
 }
 
+.project-one {
+    position: absolute;
+    width: 270px;
+    height: 60px;
+    top: 140px;
+    left: 15px;
+    background: #4aaaa5;
+}
+
+.project-two {
+    position: absolute;
+    width: 270px;
+    height: 60px;
+    top: 140px;
+    right: 34px;
+    background: #4aaaa5;
+}
+
+.project-three {
+    position: absolute;
+    width: 270px;
+    height: 60px;
+    top: 144px;
+    left: 15px;
+    background: #4aaaa5;
+}
+
+
+.project-four {
+    position: absolute;
+    width: 270px;
+    height: 60px;
+    top: 140px;
+    right: 35px;
+    background: #4aaaa5;
+}
+
+.project-five {
+    position: absolute;
+    width: 270px;
+    height: 60px;
+    bottom: 20px;
+    left: 15px;
+    background: #4aaaa5;
+}
+
+.project-six {
+    position: absolute;
+    width: 270px;
+    height: 60px;
+    bottom: 20px;
+    right: 35px;
+    background: #4aaaa5;
+}
+
+
+.footer {
+    border-top: 8px solid #4aaaa5
+    background: #666
+}
 
 
 
